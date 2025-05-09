@@ -30,15 +30,3 @@ streamlit run app.py
 ```
 
 The application will be available at http://localhost:8501
-
-## Customization
-
-To modify the content, simply edit the `app.py` file and the data structures within it:
-- Update education information in the `education` list
-- Modify professional experiences in the `experiences` list
-- Change extracurricular activities in the `extracurriculars` list
-- Adjust skills and interests as needed
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE). 
